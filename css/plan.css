@@ -24,7 +24,7 @@
     line-height: 1.3rem;
     font-weight: 300;
     color: #000B33;
-    margin-bottom: 2rem;
+    margin-bottom: 3rem;
 }
 
 .plan__container-bottom {
@@ -145,7 +145,7 @@
 }
 
 .plan__container-cards button:hover {
-    background: linear-gradient(to right,#8C30F5 0%, #FF4B5C 100%);
+    background-color: #FF4B5C;
     color: whitesmoke;
     border: none;
 }

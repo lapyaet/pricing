@@ -7,10 +7,11 @@
 
 .home__container h3 {
     font-size: 3rem;
+    word-spacing: 8px;
     font-weight: 500;
     color: #ffff;
     text-align: center;
-    padding-top: 4rem;
+    padding-top: 3rem;
     margin-bottom: 1.5rem;
 }
 
@@ -18,6 +19,7 @@
     color: #ffff;
     text-align: center;
     letter-spacing: 1px;
+    margin-bottom: 0.5rem;
 }
 
 .text {
